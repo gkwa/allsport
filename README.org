@@ -1,0 +1,7 @@
+* allsport
+
+This is a description of my allsport.
+
+** Usage
+
+To use my project, run this command: ./allsport --verbose
